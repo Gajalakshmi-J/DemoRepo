@@ -1,0 +1,9 @@
+{
+	"name": "HepDf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "30be8c6d-d231-433e-b414-de0cc70d8180",
+		"tenantId": "5d4cdeba-9ff9-4465-a645-74c91476a1cf"
+	}
+}
