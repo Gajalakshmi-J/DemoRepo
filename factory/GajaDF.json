@@ -1,0 +1,9 @@
+{
+	"name": "GajaDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c03d8672-7b85-49fb-9b0e-11c32d479d15",
+		"tenantId": "5d4cdeba-9ff9-4465-a645-74c91476a1cf"
+	}
+}
