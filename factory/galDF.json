@@ -1,0 +1,9 @@
+{
+	"name": "galDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "996560d0-ba75-4b53-b6cc-f5ce94e898a0",
+		"tenantId": "5d4cdeba-9ff9-4465-a645-74c91476a1cf"
+	}
+}
