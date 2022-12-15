@@ -1,0 +1,9 @@
+{
+	"name": "katDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "10e2ec0b-ad3c-461c-a826-f1c71411bae6",
+		"tenantId": "5d4cdeba-9ff9-4465-a645-74c91476a1cf"
+	}
+}
